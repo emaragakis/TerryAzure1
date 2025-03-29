@@ -1,0 +1,9 @@
+{
+	"name": "Datafactory20241221",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "42be771c-9891-443c-8b4b-62f788711b14",
+		"tenantId": "01ccd302-fb62-489e-b65f-a4374d0aacd6"
+	}
+}
